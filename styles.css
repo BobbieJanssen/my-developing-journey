@@ -1,0 +1,33 @@
+.important{
+    background-color: rgba(102, 193, 193, 0.846);
+    color:rgba(23, 133, 23, 0.982);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titles,
+.blogtitle{
+    background-color: rgba(102, 193, 193, 0.805);
+    color: rgba(23, 133, 23, 0.982);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.blogtitle{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.background{
+    background-color: rgba(102, 193, 193, 0.805);
+}
+
+.menu{
+    background-color: rgb(23, 133, 23);
+    color: rgb(85, 192, 192);
+    font-size: 32px;
+    font: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rightside{
+    float: right;
+}
